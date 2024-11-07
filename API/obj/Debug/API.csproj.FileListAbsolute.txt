@@ -1,0 +1,10 @@
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\bin\API.dll.config
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\bin\API.dll
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\bin\API.pdb
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\obj\Debug\API.csproj.Up2Date
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\obj\Debug\API.dll
+C:\Users\ACER\Downloads\API_E-Commerce-master\API\obj\Debug\API.pdb
